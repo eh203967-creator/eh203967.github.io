@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Page Title</title>
@@ -11,4 +11,5 @@
 <q></q>	<blockquote></blockquote>	<q>I was attacked by the bear when i opend by tent door !</q>	<strong></strong>
 </body>
 </html>
+
 
