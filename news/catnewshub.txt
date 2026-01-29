@@ -10,6 +10,6 @@
 
 <p>latest storys!<p>
 <p>todays story a bear almostv killed a man but man deiceds not to have bear put down.
-<a href='done_evan_hurta'></A>
+<a href='done_evan_hurta'></a>
 </body>
 </html>
